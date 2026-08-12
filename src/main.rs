@@ -1,7 +1,7 @@
+use ::std::vec;
 use std::io;
 
 fn main() {
-    let mut a = String::new;
-    println!("Введите число");
-    println!("git")
+    let a = vec![1, 2, 3];
+    
 }
